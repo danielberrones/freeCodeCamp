@@ -1,3 +1,4 @@
+// setup
 const path = require('path');
 const { findIndex } = require('lodash');
 const readDirP = require('readdirp-walk');
